@@ -459,7 +459,7 @@ a:active {
 	background-color: var(--color-light-grey);
 }
 
-ul.row::after {
+.row::after {
   content: "";
   display: table;
   clear: both;
